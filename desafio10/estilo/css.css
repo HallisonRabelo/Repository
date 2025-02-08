@@ -73,7 +73,8 @@ margin: 0 auto;
 }
 .img{
   margin: auto;
-  
+  max-width: 850px;
+  display: block;
 }
 p > a{
   background-color: white;
