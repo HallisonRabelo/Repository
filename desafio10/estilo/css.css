@@ -74,6 +74,7 @@ margin: 0 auto;
 .img{
   margin: auto;
   max-width: 850px;
+  min-width: 300px;
   display: block;
 }
 p > a{
