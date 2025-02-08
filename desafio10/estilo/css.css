@@ -73,8 +73,7 @@ margin: 0 auto;
 }
 .img{
   margin: auto;
-  max-width: 850px;
-  min-width: 300px;
+  width: 100%;
   display: block;
 }
 p > a{
